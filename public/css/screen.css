@@ -1,0 +1,11 @@
+#xd{
+    width: 100%;
+    background-image: url('Office-cup-coffee-notebook_1920x1080.jpg') !important;
+    background-size: cover !important;
+    display: table;
+    background-attachment: fixed !important;
+    background-repeat: no-repeat !important;
+}
+#xd2{
+    background-color: darkcyan;
+}
